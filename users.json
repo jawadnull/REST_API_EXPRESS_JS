@@ -1,0 +1,26 @@
+[
+    {
+        "_id": "65a600677e73a01ca1e5376e",
+        "username": "jawad",
+        "email": "jawad@gmail.com",
+        "__v": 0
+    },
+    {
+        "_id": "65a670c32b82979bcc6cef31",
+        "username": "ali123",
+        "email": "ali@gmail.com",
+        "__v": 0
+    },
+    {
+        "_id": "65a6815d4064f0a685945753",
+        "username": "salman",
+        "email": "salman@gmail.com",
+        "__v": 0
+    },
+    {
+        "_id": "65a681734064f0a685945756",
+        "username": "rahman",
+        "email": "rahman@gmail.com",
+        "__v": 0
+    }
+]
